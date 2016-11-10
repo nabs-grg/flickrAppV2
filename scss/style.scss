@@ -1,2 +1,18 @@
-// colors
+$standard-margin : 10px;
 
+#btn-search {
+	
+	margin-top : $standard-margin;
+	margin-bottom : $standard-margin;
+	width: 50%;
+	position: relative;
+	left: 25%;
+}
+
+#main-div {
+
+	position: absolute;
+	left: 25%;
+	top: 400px;
+
+}
